@@ -12,12 +12,11 @@
     display: block;
     font-size: 16px;
     font-weight: 500;
-    color: var(--color-white);
+    color: var(--color-muted);/* var(--color-white); */
     padding: 13px 23px;
     z-index: 1;
     cursor: pointer;
     background: transparent;
-    transition: var(--transition);
     transition: var(--transition);
 }
 .project__navigation button.active{

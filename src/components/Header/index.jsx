@@ -9,9 +9,9 @@ const Header = () => {
   return (
     <header>
         <div id="header">
-            <div className="system__wrapper">
+            {/* <div className="system__wrapper">
                 <SolarSystem/>
-            </div>
+            </div> */}
             <div className="container full__height blur-effect">
                 <div className="column">
                     <h1 className="title">

@@ -1,11 +1,11 @@
 import React from 'react'
 import "./Logo.css"
-import { PiSolarPanelFill } from 'react-icons/pi'
+import { PiCompassRose, PiSolarPanelFill } from 'react-icons/pi'
 const Logo = () => {
     return (
     <div className='logo'>
-        <PiSolarPanelFill className='icon'/>
-        <h1 className="name">Sola<span className="color__primary">Rix</span></h1>
+        <PiCompassRose className='icon'/>
+        <h1 className="name">Kam<span className="color__primary">Puni</span></h1>
     </div>
     )
 }

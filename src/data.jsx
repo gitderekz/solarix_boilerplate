@@ -94,7 +94,8 @@ export const projects = [
   },
   {
     title:"Empowering Communities: Solar Solutions for a Sustainable Future",
-    image:"https://www.solarpowerworldonline.com/wp-content/uploads/2019/07/ips1.jpg",
+    // image:"https://www.solarpowerworldonline.com/wp-content/uploads/2019/07/ips1.jpg",
+    image:"https://images.pexels.com/photos/29582939/pexels-photo-29582939/free-photo-of-morning-coffee-with-biscuits-in-cozy-setting.jpeg",
     category:"Solar Panel",
     description:`Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
     Magni debitis expedita dolor`,

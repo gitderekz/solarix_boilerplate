@@ -9,7 +9,7 @@ const About = () =>{
         <section id='about'>
             <div className="container">
                 <div className="column company__photo">
-                    <img src={company__photo} alt="Solarix" />
+                    <img src={company__photo} alt="kampuni" />
                 </div>
                 <div className="column">
                     <h3 className='sub__title'>With +7 years experience</h3>

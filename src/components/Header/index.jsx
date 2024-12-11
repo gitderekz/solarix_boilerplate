@@ -1,7 +1,7 @@
 import React from 'react'
 import './Header.css'
 import { solar__skyscraper } from '../../assets';
-import { Link } from 'react-router-dom';
+import { Link } from 'react-scroll';
 import SolarSystem from '../SolarSystem';
 
 
@@ -24,7 +24,7 @@ const Header = () => {
                     </p>
                     <div className="buttons__container">
                         <Link to='services' className='btn'>Our Services</Link>
-                        <Link to='contacts' className='btn btn__primary'>Contact us</Link>
+                        <Link to='contact' className='btn btn__primary'>Contact us</Link>
                     </div>
                 </div>
                 <div className='column'>
